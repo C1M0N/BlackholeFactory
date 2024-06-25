@@ -55,6 +55,18 @@
     <ClCompile Include="..\..\Source\BlackholeFactory\Private\Character\PlayerCharacter.cpp">
       <Filter>Source\BlackholeFactory\Private\Character</Filter>
     </ClCompile>
+    <Filter Include="Source\BlackholeFactory\Private\Game">
+      <UniqueIdentifier>{51C64A9E-54CD-3F35-A721-B60BB9F4E695}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BlackholeFactory\Private\Game\BhFGameModeBase.cpp">
+      <Filter>Source\BlackholeFactory\Private\Game</Filter>
+    </ClCompile>
+    <Filter Include="Source\BlackholeFactory\Private\Player">
+      <UniqueIdentifier>{6C1DE571-85C4-3C2C-81AA-35FB6CEAF9FB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BlackholeFactory\Private\Player\MainPlayerController.cpp">
+      <Filter>Source\BlackholeFactory\Private\Player</Filter>
+    </ClCompile>
     <Filter Include="Source\BlackholeFactory\Public">
       <UniqueIdentifier>{231BB933-1A2A-3E07-9E15-07DBFAF59F70}</UniqueIdentifier>
     </Filter>
@@ -69,6 +81,18 @@
     </ClInclude>
     <ClInclude Include="..\..\Source\BlackholeFactory\Public\Character\PlayerCharacter.h">
       <Filter>Source\BlackholeFactory\Public\Character</Filter>
+    </ClInclude>
+    <Filter Include="Source\BlackholeFactory\Public\Game">
+      <UniqueIdentifier>{5A036EA1-670A-398E-8D0B-115CB4C4F0DC}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\BlackholeFactory\Public\Game\BhFGameModeBase.h">
+      <Filter>Source\BlackholeFactory\Public\Game</Filter>
+    </ClInclude>
+    <Filter Include="Source\BlackholeFactory\Public\Player">
+      <UniqueIdentifier>{19EE22D9-F746-3806-9766-A9CD55860075}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\BlackholeFactory\Public\Player\MainPlayerController.h">
+      <Filter>Source\BlackholeFactory\Public\Player</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

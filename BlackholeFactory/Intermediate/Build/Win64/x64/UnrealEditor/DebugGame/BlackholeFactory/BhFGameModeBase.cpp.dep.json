@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\game portfolio\\blackholefactory\\blackholefactory\\source\\blackholefactory\\private\\game\\bhfgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\game portfolio\\blackholefactory\\blackholefactory\\intermediate\\build\\win64\\x64\\blackholefactoryeditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\game portfolio\\blackholefactory\\blackholefactory\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\blackholefactory\\definitions.blackholefactory.h",
+            "e:\\game portfolio\\blackholefactory\\blackholefactory\\source\\blackholefactory\\public\\game\\bhfgamemodebase.h",
+            "e:\\epic\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\epic\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\epic\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "e:\\epic\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "e:\\game portfolio\\blackholefactory\\blackholefactory\\intermediate\\build\\win64\\unrealeditor\\inc\\blackholefactory\\uht\\bhfgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

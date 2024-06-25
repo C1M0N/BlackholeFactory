@@ -14,4 +14,7 @@ class BLACKHOLEFACTORY_API APlayerCharacter : public AAllCharacterBase
 {
 	GENERATED_BODY()
 	
+public:
+	APlayerCharacter();
+	
 };

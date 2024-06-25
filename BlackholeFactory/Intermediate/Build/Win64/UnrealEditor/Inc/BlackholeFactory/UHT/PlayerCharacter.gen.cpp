@@ -75,7 +75,6 @@ template<> BLACKHOLEFACTORY_API UClass* StaticClass<APlayerCharacter>()
 {
 	return APlayerCharacter::StaticClass();
 }
-APlayerCharacter::APlayerCharacter() {}
 DEFINE_VTABLE_PTR_HELPER_CTOR(APlayerCharacter);
 APlayerCharacter::~APlayerCharacter() {}
 // End Class APlayerCharacter
