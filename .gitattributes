@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# LFS
+BlackholeFactory/Content/Static/** filter=lfs diff=lfs merge=lfs -text
