@@ -12,6 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <None Include="..\..\.vsconfig" />
+    <None Include="..\..\BlackholeFactory.sln.DotSettings.user" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -42,14 +43,20 @@
     <Filter Include="Source\BlackholeFactory\Private">
       <UniqueIdentifier>{ACB620D9-04FA-3953-AE76-53C6BAFB0B5B}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\BlackholeFactory\Private\PlayerCharacterBase.cpp">
-      <Filter>Source\BlackholeFactory\Private</Filter>
+    <Filter Include="Source\BlackholeFactory\Private\Character">
+      <UniqueIdentifier>{167D876A-5016-3F6E-A753-A0979A0E61E7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BlackholeFactory\Private\Character\AllCharacterBase.cpp">
+      <Filter>Source\BlackholeFactory\Private\Character</Filter>
     </ClCompile>
     <Filter Include="Source\BlackholeFactory\Public">
       <UniqueIdentifier>{231BB933-1A2A-3E07-9E15-07DBFAF59F70}</UniqueIdentifier>
     </Filter>
-    <ClInclude Include="..\..\Source\BlackholeFactory\Public\PlayerCharacterBase.h">
-      <Filter>Source\BlackholeFactory\Public</Filter>
+    <Filter Include="Source\BlackholeFactory\Public\Character">
+      <UniqueIdentifier>{891CA63A-4358-31C9-B143-88FCEE9C95BC}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\BlackholeFactory\Public\Character\AllCharacterBase.h">
+      <Filter>Source\BlackholeFactory\Public\Character</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
