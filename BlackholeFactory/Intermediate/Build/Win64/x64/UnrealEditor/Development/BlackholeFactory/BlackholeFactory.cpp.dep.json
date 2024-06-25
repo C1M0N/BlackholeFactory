@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\game portfolio\\blackholefactory\\blackholefactory\\source\\blackholefactory\\blackholefactory.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\game portfolio\\blackholefactory\\blackholefactory\\intermediate\\build\\win64\\x64\\blackholefactoryeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\game portfolio\\blackholefactory\\blackholefactory\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\blackholefactory\\definitions.blackholefactory.h",
+            "e:\\game portfolio\\blackholefactory\\blackholefactory\\source\\blackholefactory\\blackholefactory.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

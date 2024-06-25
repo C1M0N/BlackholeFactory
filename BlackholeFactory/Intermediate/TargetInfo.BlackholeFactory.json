@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BlackholeFactory",
+			"Path": "..\\Source\\BlackholeFactory.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BlackholeFactoryEditor",
+			"Path": "..\\Source\\BlackholeFactoryEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

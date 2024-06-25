@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BlackholeFactory.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BlackholeFactory.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BlackholeFactoryEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BlackholeFactory">
+      <UniqueIdentifier>{B23FE562-D035-3618-9C89-A910417E9C1D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BlackholeFactory\BlackholeFactory.Build.cs">
+      <Filter>Source\BlackholeFactory</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BlackholeFactory\BlackholeFactory.cpp">
+      <Filter>Source\BlackholeFactory</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BlackholeFactory\BlackholeFactory.h">
+      <Filter>Source\BlackholeFactory</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

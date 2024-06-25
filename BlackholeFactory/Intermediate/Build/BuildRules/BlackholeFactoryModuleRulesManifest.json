@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Game Portfolio\\BlackholeFactory\\BlackholeFactory\\Source\\BlackholeFactory\\BlackholeFactory.Build.cs",
+		"E:\\Game Portfolio\\BlackholeFactory\\BlackholeFactory\\Source\\BlackholeFactory.Target.cs",
+		"E:\\Game Portfolio\\BlackholeFactory\\BlackholeFactory\\Source\\BlackholeFactoryEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.2"
+}
