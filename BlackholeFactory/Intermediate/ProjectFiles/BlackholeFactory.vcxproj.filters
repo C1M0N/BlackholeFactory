@@ -39,5 +39,17 @@
     <ClInclude Include="..\..\Source\BlackholeFactory\BlackholeFactory.h">
       <Filter>Source\BlackholeFactory</Filter>
     </ClInclude>
+    <Filter Include="Source\BlackholeFactory\Private">
+      <UniqueIdentifier>{ACB620D9-04FA-3953-AE76-53C6BAFB0B5B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BlackholeFactory\Private\PlayerCharacterBase.cpp">
+      <Filter>Source\BlackholeFactory\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\BlackholeFactory\Public">
+      <UniqueIdentifier>{231BB933-1A2A-3E07-9E15-07DBFAF59F70}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\BlackholeFactory\Public\PlayerCharacterBase.h">
+      <Filter>Source\BlackholeFactory\Public</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
