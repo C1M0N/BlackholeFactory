@@ -282,6 +282,7 @@
 /I "Editor\SceneDepthPickerMode\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationEditMode\UHT"
 /I "Editor\AnimationEditMode\Public"
+/I "E:\Game Portfolio\BlackholeFactory\BlackholeFactory\Intermediate\Build\Win64\UnrealEditor\Inc\BlackholeFactory\UHT"
 /I "E:\Game Portfolio\BlackholeFactory\BlackholeFactory\Source"
 /I "E:\Game Portfolio\BlackholeFactory\BlackholeFactory\Source\BlackholeFactory\Public"
 /I "..\Plugins\EnhancedInput\Intermediate\Build\Win64\UnrealEditor\Inc\EnhancedInput\UHT"
