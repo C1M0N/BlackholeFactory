@@ -49,6 +49,12 @@
     <ClCompile Include="..\..\Source\BlackholeFactory\Private\Character\AllCharacterBase.cpp">
       <Filter>Source\BlackholeFactory\Private\Character</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\BlackholeFactory\Private\Character\EnemyCharacter.cpp">
+      <Filter>Source\BlackholeFactory\Private\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BlackholeFactory\Private\Character\PlayerCharacter.cpp">
+      <Filter>Source\BlackholeFactory\Private\Character</Filter>
+    </ClCompile>
     <Filter Include="Source\BlackholeFactory\Public">
       <UniqueIdentifier>{231BB933-1A2A-3E07-9E15-07DBFAF59F70}</UniqueIdentifier>
     </Filter>
@@ -56,6 +62,12 @@
       <UniqueIdentifier>{891CA63A-4358-31C9-B143-88FCEE9C95BC}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\BlackholeFactory\Public\Character\AllCharacterBase.h">
+      <Filter>Source\BlackholeFactory\Public\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\BlackholeFactory\Public\Character\EnemyCharacter.h">
+      <Filter>Source\BlackholeFactory\Public\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\BlackholeFactory\Public\Character\PlayerCharacter.h">
       <Filter>Source\BlackholeFactory\Public\Character</Filter>
     </ClInclude>
   </ItemGroup>
